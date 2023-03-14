@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+.form1{
+    position:relative;
+    
+    max-width: 500px;
+    background: white;
+    border-radius: 20px;
+    width: 100%;
+    padding: 20px 20px;
+    border: 2px solid #e3e3e3;
+
+    
+}
+.Heading{
+    position: relative;
+    text-align: center;
+    font-size: 29px;
+    font-weight: 600;
+    position: relative;
+}
+.error{
+    margin-left: 30px;
+    color: red;
+    font-size: 15px;
+}
+.form2{
+    padding: 10px 0px;
+    height: 100px;
+    height: 100%;
+    position: relative;
+    margin-top: 30px;
+    width: 100%;    
+}
+.fil
+{
+    margin-left: 30px;
+    position: relative;
+    padding: 20px 0px;
+    width: 80%;
+}
+.fil input{
+    border: none;
+    outline: none;
+    font-size: 20px;
+    border-bottom: 2px solid #ccc;
+    height: 100%;
+    width: 100%;
+}
+.show{
+    margin-left: 30px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.show a{
+    text-decoration: none;
+    color: #4070f4 ;
+}
+.show a:hover{
+    text-decoration: underline;
+}
+.up{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.up a{
+    text-decoration: none;
+    margin-left: 5px;
+    color: #4070f4 ;
+}
+.up a:hover{
+    text-decoration: underline;
+
+}
+button{
+    width: 300px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    width: 80%;
+    height: 50px;
+    align-items: center;
+    border: none;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    cursor: pointer;
+}
+button:hover{
+   background: darkgray;
+}

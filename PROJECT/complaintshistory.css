@@ -1,0 +1,47 @@
+.col4
+{
+    
+    float: left;
+    min-height: 1px;
+    padding:45px 25px;
+    text-align: center;
+    width: 320px;
+    height: 360px;
+    box-shadow: 20px 20px 34px rgba(0,0,0,0.03);
+    border: 1px solid #cce7d0;
+    border-radius: 4px;
+}
+.col4 a{
+    color: #000;
+    margin: 0 auto;
+    width: 75%;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: left;
+    
+}
+
+
+.col4 a img{
+    height: 250px;
+    width: 250px;
+}
+.col4:hover{
+    box-shadow: 20px 20px 34px rgba(0,0,0,0.03);
+    border-bottom: 2px solid black;
+   
+}
+
+
+.paragraph1{
+    width: 100%;
+    padding:40px 40px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}

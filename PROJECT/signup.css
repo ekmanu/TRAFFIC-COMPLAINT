@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+
+.logo
+{  
+   height: 80px;
+   width: 80px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-left: 20px;
+}
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+body{
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+}
+.main
+{
+    margin-top: 100px;
+    background-color: white;
+    border-radius: 16px;
+    border: 1px solid #e3e3e3;
+    width: 700px;
+    height: 100px;
+    height: auto;
+    margin-left: 350px;
+    margin-bottom: 100px;
+}
+h1{
+    font-weight: 700;
+    font-size: 29px;
+    color: black;
+    margin: 0;
+    padding: 20px 0px;
+}
+.form1  
+{
+    padding: 30px 40px;
+    
+}
+.forms
+{
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.forms label{
+    color: black;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 5px; 
+}
+.forms input{
+    border: 2px solid #f0f0f0;
+    border-radius: 4px;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+
+}
+.forms input:focus{
+    outline: 0;
+    border-color: #777;
+}
+.forms select{
+    border: 2px solid #f0f0f0;
+    border-radius: 4px;
+    display: block;
+    width: 100px;
+    padding: 10px;
+    font-size: 14px;
+
+}
+.forms select:focus{
+    outline: 0;
+    border-color: #777;
+}
+
+
+small{
+    bottom: 0;
+    left: 0;
+    font-size: 16.5px;
+    color: red;
+    font-weight: 500;
+}
+
+.main button{
+width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    width: 80%;
+    height: 50px;
+    align-items: center;
+    border: none;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    cursor: pointer;
+}
+.main button:hover{
+   background: darkgray;
+}
+.footer{
+
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 19px;
+    padding: 20px;
+    
+}
+
+.up{
+    margin-left: 0px;
+    margin-top: 20px;
+}
+.up a{
+    text-decoration: none;
+    margin-left: 5px;
+    color: #4070f4 ;
+}
+.up a:hover{
+    text-decoration: underline;
+}

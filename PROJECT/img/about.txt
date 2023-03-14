@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Palette Mosaic
+- Font Author: Copyright 2020 The Palette Mosaic Project Authors (https://github.com/shibuyafont/Palette-mosaic-font-mono), all rights reserved.
+- Font Source: http://fonts.gstatic.com/s/palettemosaic/v5/AMOIz4aBvWuBFe3TohdW6YZ9MFiy4dxL4jSr.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

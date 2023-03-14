@@ -1,0 +1,133 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body{
+    background-color: white;
+    display: block;
+    text-align: left;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+.complaint{
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 1450px;
+}
+.part2{
+   margin-left: 112px;
+   max-width: 84%;
+   position: relative;
+   width: 1125px;
+   display: block;
+}
+img{
+    margin:0px 412px 32px 412px;
+    vertical-align: middle;
+    width: 275px;
+}
+h1{
+    margin-bottom: 8px;
+    color: black;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 48px;
+}
+p{
+    
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 16px;
+    margin-top: 16px;
+    
+}
+fieldset{
+    border: 1px silver solid;
+    padding: 20px; 
+}
+legend{
+    width: auto;
+    padding: 5px;
+    margin: 0;
+    border: 0;
+    max-width: 100%;
+    line-height: 36px;
+    font-size: 24px ;
+    white-space: normal;
+
+}
+label{
+    color: black;
+    padding: 15px;
+    font-size: 20px;
+    
+}
+.input{
+    padding: 6px 12px 6px 12px;
+    font-size: 1rem;
+    color: #383c41;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    width: 380px;
+}
+.form1 ul {
+    padding-left: 30px;
+}
+
+.form1 ul li{
+    font-size: 18px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.details{
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    padding: 6px 12px 6px 12px;
+    font-size: 1rem;
+    color: #495057;
+    resize: vertical;
+    width: 1053px;
+    height: 237px;
+
+}
+button{
+    width: 300px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 50px;
+        width: 80%;
+        height: 50px;
+        align-items: center;
+        border: none;
+        border-radius: 5px;
+        letter-spacing: 1px;
+        font-size: 16px;
+        font-weight: 600;
+        font-style: normal;
+        cursor: pointer;
+    }
+
+    button:hover{
+        background: darkgray;
+     }
+
+     #photo{
+         margin-top: 10px;
+         position: relative;
+         display: block;
+         border: 2px solid #f0f0f0;
+         border-radius: 4px;
+         display: block;
+         width: 90%;
+         padding: 10px;
+         font-size: 14px;
+     }
+     .small{
+        left: 0;
+        font-size: 20px;
+        color: red;
+        font-weight: 500;
+    }
